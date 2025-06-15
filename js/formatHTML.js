@@ -1,17 +1,3 @@
-// function formatHtml(html) {
-//     const parser = new DOMParser();
-//     const doc = parser.parseFromString(html, 'text/html');
-//     const serializer = new XMLSerializer();
-//     let formattedHtml = serializer.serializeToString(doc);
-  
-//     // Дополнительная обработка для удаления лишних тегов, добавленных DOMParser
-//     formattedHtml = formattedHtml.replace('<!DOCTYPE html><html><head><meta charset="utf-8"></head><body>', '');
-//     formattedHtml = formattedHtml.replace('</body></html>', '');
-  
-//     formattedHtml = formattedHtml.replace(/<\/(p|div|span|h1|h2|h3|h4|h5|h6|li|ul|ol|pre|textarea)>/g, '</$1>\<br>');
-
-//     return formattedHtml;
-//   }
 function formatHTML(htmlCode, indentSize = 4) {
   /**
    * Форматирует HTML-код, добавляя отступы для улучшения читаемости.
