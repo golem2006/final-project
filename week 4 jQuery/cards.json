@@ -26,26 +26,26 @@
         },
         {
             "src": "https://imgholder.ru/150/FAAFA/000000ee.jpg&font=kelson",
-            "name": "Фильм 1",
-            "date": "2000",
+            "name": "Фильм 5",
+            "date": "2025",
             "id": "000005"
         },
         {
             "src": "https://imgholder.ru/150/FAAFA/000000ee.jpg&font=kelson",
-            "name": "Фильм 2",
-            "date": "2024",
+            "name": "Фильм 6",
+            "date": "2025",
             "id": "000006"
         },
         {
             "src": "https://imgholder.ru/150/FAAFA/000000ee.jpg&font=kelson",
-            "name": "Фильм 3",
-            "date": "2015",
+            "name": "Фильм 7",
+            "date": "2025",
             "id": "000007"
         },
         {
             "src": "https://imgholder.ru/150/FAAFA/000000ee.jpg&font=kelson",
-            "name": "Фильм 4",
-            "date": "1998",
+            "name": "Фильм 8",
+            "date": "2025",
             "id": "000008"
         }
     ]
